@@ -1,0 +1,10 @@
+------- cpptestscan v.10.7.1.20241112B4223 (cpptesttrace) -------
+working_dir=/home/gtrofimov/examples/Shapes
+project_name=Shapes
+arg=g++
+arg=Logger.cpp
+arg=Point.cpp
+arg=Rectangle.cpp
+arg=Square.cpp
+arg=BetterRectangle.cpp
+arg=Main.cpp
