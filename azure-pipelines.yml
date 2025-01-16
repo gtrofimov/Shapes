@@ -57,7 +57,7 @@ steps:
     cpptestcli \
     -settings /tmp/cpptestcli.properties \
     -compiler gcc_9-64 \
-    -config 'builtin://SEI CERT C++ Rules' \
+    -config 'builtin://SEI CERT C++ Guidelines' \
     -module . \
     -report /tmp \
     -property report.format=xml,html,sarif-azure \
