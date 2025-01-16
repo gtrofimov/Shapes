@@ -1,2 +1,4 @@
 .cpptest
 reports
+.vscode
+*.properties
